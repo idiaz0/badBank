@@ -3,6 +3,7 @@
 <ul>
   <li>
     Project title: <b>Bad Bank</b>
+    <img src="./img/Captura.JPG"></img>
   </li>
   <li>
     Description/Motivation: <b>Developing real application with MERN</b>
